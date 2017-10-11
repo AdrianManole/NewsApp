@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#005689</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#23303D</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Text color for the date when the story was published in the list item -->
+    <color name="textColorDate">#808080</color>
+
+    <!-- Color for the "Politics" section rectangle -->
+    <color name="politics">#4A7BA7</color>
+
+    <!-- Color for the "Opinion" section rectangle -->
+    <color name="opinion">#3ac4ef</color>
+
+    <!-- Color for the "Education" section rectangle -->
+    <color name="education">#04b4b3</color>
+
+    <!-- Color for the "Uk news" section rectangle -->
+    <color name="uk_news">#d12623</color>
+
+    <!-- Color for the "US news" section rectangle -->
+    <color name="us_news">#d1c523</color>
+
+    <!-- Color for the "Environment" section rectangle -->
+    <color name="environment">#5d9346</color>
+
+    <!-- Color for the "Environment" section rectangle -->
+    <color name="teacher_network">#c133ce</color>
+
+    <!-- Default color for a section rectangle not listed above-->
+    <color name="default_color">#ef6c00</color>
+</resources>
